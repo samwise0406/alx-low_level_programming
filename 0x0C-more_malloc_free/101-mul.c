@@ -223,6 +223,7 @@ int main(int argc, char *argv[])
 		if (final_prod[index] != 'x')
 			putchar(final_prod[index]);
 	}
+
 	putchar('\n');
 
 	free(next_prod);
